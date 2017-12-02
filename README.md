@@ -1,6 +1,6 @@
 # Applied Designs
 
-If you plan to submit new design layouts via Github, please create a new branch for your work and submit that as a pull request.
+If you plan to submit new design ideas for layout or theme via Github, please create a new branch for your work and submit that as a pull request.
 
 ## Credits
 
