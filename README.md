@@ -1,5 +1,6 @@
 # Applied Designs
 
+Comprises a collection of modern design layouts and themes each having their own feature usage and applied as a partial view of the overall web page design.
 
 ## Accessibility
 
@@ -14,10 +15,6 @@ Do read [Contributing Document](https://github.com/Locetus/applied-designs/blob/
 Finally, to make sure you have a pleasant experience while being in our welcoming community, please read [code of conduct](CODE_OF_CONDUCT.md). It outlines the core values and believes and will make working together a happier experience.
 
 Thanks again for being a contributor to the Locetus Community :tada:!
-
-## Credits
-
-- Design Ideas (https://dribbble.com/Radium) 
 
 ## Contact
 
