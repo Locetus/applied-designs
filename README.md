@@ -17,8 +17,8 @@ Do read [Contributing Document](https://github.com/Locetus/applied-designs/blob/
 
 ## Contact
 
-Feel free to reach out to us with questions or feedback at [locetus[at]gmail.com](mailto:locetus@gmail.com) or
-tweet us at [@locetus](https://twitter.com/locetus)
+Feel free to reach out with questions or feedback at [locetus[at]gmail.com](mailto:locetus@gmail.com) or
+tweet at [@locetus](https://twitter.com/locetus)
 
 ## Copyright and License
 
