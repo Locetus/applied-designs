@@ -23,4 +23,4 @@ tweet at [@locetus](https://twitter.com/locetus)
 
 ## Copyright and License
 
-Code and documentation copyright © 2017 [Locetus Labs](https://locetus.github.io/). Code released under the [Locetus Open Applied Designs License 1.0](https://github.com/locetus/applied-designs/blob/master/LICENSE)
+Code and documentation copyright © 2017 [Locetus](https://locetus.github.io/). Code released under the [Locetus Open Applied Designs License 1.0](https://github.com/locetus/applied-designs/blob/master/LICENSE)
