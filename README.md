@@ -11,6 +11,10 @@ You are most welcome! If you plan to submit your new design ideas via Github, pl
 
 Do read [Contributing Document](https://github.com/Locetus/applied-designs/blob/master/CONTRIBUTING.md) to get started with your new design implementation/enhance existing design. 
 
+Finally, to make sure you have a pleasant experience while being in our welcoming community, please read [code of conduct](CODE_OF_CONDUCT.md). It outlines the core values and believes and will make working together a happier experience.
+
+Thanks again for being a contributor to the Locetus Community :tada:!
+
 ## Credits
 
 - Design Ideas (https://dribbble.com/Radium) 
