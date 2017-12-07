@@ -8,7 +8,7 @@ Considering all the designs to meet the [WCAG 2.0 AA accessibility guidelines](h
 
 ## Contributing
 
-You are most welcome! If you plan to submit your new design ideas via Github, please create a new branch for your work and submit that as a pull request. 
+Contributions are more than welcome! If you plan to submit your new design ideas via Github, please create a new branch for your work and submit that as a pull request. 
 
 Do read [Contributing Document](https://github.com/Locetus/applied-designs/blob/master/CONTRIBUTING.md) to get started with your new design implementation/enhance existing design. 
 
